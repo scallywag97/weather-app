@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Homework 05</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TemperatureLabel">Temperature</string>
+    <string name="TempMaxLabel">Temperature Max</string>
+    <string name="TempMinLabel">Temperature Min</string>
+    <string name="DescriptionLabel">Description</string>
+    <string name="HumidityLabel">Humidity</string>
+    <string name="WindSpeedLabel">Wind Speed</string>
+    <string name="WindDegreeLabel">Wind Degree</string>
+    <string name="CloudinessLabel">Cloudiness</string>
+</resources>
